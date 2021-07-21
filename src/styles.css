@@ -6,5 +6,5 @@
 }
 body{
    background:linear-gradient(#fff,rgb(7, 132, 163),#fff);
-  
+  min-width: 400px;
 }

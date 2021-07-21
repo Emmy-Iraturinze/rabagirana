@@ -21,62 +21,78 @@
      .btn{
           margin-top: -100px;
      }
-     .col1 h1 {
-      
+   
+     .main-h1 {
+        margin-top: -200px;      
      }
-     .bg-img-content .main-h1{
-          margin-top: -300px;
-     }
-
 
      .col2-img {
          width: 50px;
          margin-top: 200px;
      }
+     .content1 a ,.fas{
+          margin-top: -50px;
+          display: none;
+     }
      
 }
 
 
 
 
-.col0{
+.section0{
 
-     z-index: 100;
-     width: 100%;
-     right: 0;
-     left: 0;
+   
+    width:100%;
+   background: rgba(0, 0, 0, 0.7);
+    height: 550px;
     
-    
-    background: rgba(0, 0, 0, 0.1);
      
      
 }
+
 .main-h1{
+     margin-top: 180px;
      font-weight: bolder;
      letter-spacing: 0.5rem;
+     margin-bottom: 80px;
+     font-size: 50px !important;
+     margin-left: 40px;
+
+
+
+
+    
+     
 }
-.bg-img-content{
-     position: absolute;
-      margin-top: 100px;
-     margin-left: 20px;
-     width: 100%;
-     left: 0;
-     height: 0;
+.main-h1 span{
+   
+     color: #0dcaf0;
+     
+     width: 50px;
+  
 }
+.content2 {
+   z-index: 1;
+}
+
 .typewrite{
      color: wheat;
      text-decoration: none;
      font-size: 20px;
      font-family: 'Raleway', sans-serif;
      font-weight: 900;
+     position: absolute;
+     margin-left: 20px;
 }
 
  .bg-img{
+      margin-top: 0px;
   z-index: -1;
    width: 100%;
    right: 0;
    left: 0;
-  
+  opacity: 0.1;
    object-fit: cover;
 
     
@@ -91,6 +107,11 @@
 .bi-house,.bi-patch-question{
      font-size: 20px;
 }
+.navbar-toggler-icon,.navbar-toggler{
+     color: white;
+     z-index: 1;
+}
+
 nav{
     background: rgba(0, 0, 0, 0.5);
      position: fixed;
@@ -141,29 +162,39 @@ nav{
   color: white;
  
 }
-.row1 img{
-     width: 250px;
+.light-gif{
+    width: 80%;
+    object-fit: cover;
+    opacity: 0.3;
+    z-index: -1;
+    
 }
-.video-content{
-margin-top: -70px;
-}
-.video-content h1{
+
+
+.content1 h1{
     font-weight: bolder;
      }
-.video-content a{
+     .section0-1 .bg-img{
+          width: 100%;
+          object-fit: cover;
+          right: 0;
+          left: 0;
+          z-index: -1;
+          position: fixed;
+          bottom: 0;
+          height: 100%;
+
+     }
+.content1 a{
+   
      color:wheat;
-  
+   
      text-decoration: none;
-     font-size: 20px;
+     font-size: 17px;
      font-family: 'Raleway', sans-serif;
      font-weight: bolder;
 }
-.row .col1 small{
-     font-size: 16px;
-     letter-spacing: 0.2em;
-     font-family: 'Raleway', sans-serif;
-     font-weight: bold;
-}
+
 
 .row1 .btn{
    margin-left: 0px;
@@ -175,11 +206,10 @@ margin-top: -70px;
      margin-left: 100px;
      filter: grayscale();
 }
-
 .section2{
-     margin-top: 100px;
-    
+     margin-top: 220px;
 }
+
 .section3{
   
      margin-top: 100px;
@@ -189,9 +219,7 @@ margin-top: -70px;
      margin-left: 100px;
      width: 90%;
 }
-.section3.bi-people,.bi-patch-question{
-  
-}
+
 .collapse-mover{
      margin-top: 56px;
      margin-left: 100px;
