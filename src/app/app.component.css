@@ -1,0 +1,236 @@
+@media screen and (max-width:300px)
+{
+     body{
+          width: 100%;
+     }
+     .col2-img{
+          display: none;
+     }
+    
+     .row1 small{
+         display: none;
+     }
+  
+.row1 .btn{
+     margin-left: -40px;
+}
+
+
+     .col2-img {
+         width: 50px;
+         margin-top: 200px;
+     }
+     
+}
+
+
+@media screen and (max-width:800px)
+{
+     body{
+          width: 100%;
+     }
+     .col2-img{
+          display: none;
+     }
+     .row1 small{
+         display: none;
+     }
+  
+.row1 .btn{
+     margin-left: -40px;
+}
+
+
+     .col2-img {
+         width: 50px;
+         margin-top: 200px;
+     }
+     
+}
+@media screen and (max-width:900px)
+{
+     .col2-img{
+          display: none;
+     }
+  
+     .row1 h1{
+          margin-top: 230px;
+          margin-left: -50px;
+     }
+     .row1 img{
+          display: none;
+     }
+    
+}
+
+
+
+
+
+
+ .bg-img{
+  z-index: -1;
+   width: 100%;
+   right: 0;
+   left: 0;
+  
+   object-fit: cover;
+
+    
+    
+}
+.sun{
+     position: absolute;
+     margin-left: -35px;
+     z-index: -1;
+     margin-top: 2px;
+}
+.bi-house,.bi-patch-question{
+     font-size: 20px;
+}
+nav{
+    background: rgba(0, 0, 0, 0.5);
+     position: fixed;
+     left: 0;
+     top: 0;
+     width: 100%;
+     z-index: 10;
+}
+.sponsor-img{
+    width:50px;
+    right: 0;
+    position: fixed;
+    bottom: 0;
+    margin-right: 10px;
+    margin-bottom: 37px;
+    cursor: pointer;
+    border-radius:200px;
+}
+.navbar-brand{
+     font-weight: bolder;
+     font-family: Verdana, Geneva, Tahoma, sans-serif; 
+     color: white;
+     font-size: 20px;
+     margin-left: 45px;
+     
+   
+}
+.navbar-brand span{
+     color: white;
+     font-weight: bolder;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.nav-link{
+     margin-left: 20px;
+     color: white;
+     font-weight: bolder;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 15px;
+}
+.section1{
+    
+
+
+}
+
+.row1{
+  position: absolute;
+  margin-top: -600px; 
+ 
+  color: white;
+ 
+}
+.row1 img{
+     width: 250px;
+}
+
+.row .col1 h1{
+    font-size: 60px;
+font-weight: bolder;
+letter-spacing: 0.1em;
+}
+.row .col1 small{
+     font-size: 16px;
+    font-style: italic;
+}
+
+.row .btn{
+    margin-left: 50px;
+}
+.col2-img{
+     margin-top: -50px;
+     margin-left: 100px;
+     filter: grayscale();
+}
+
+.section2{
+     margin-top: 100px;
+    
+}
+.section3{
+  
+     margin-top: 100px;
+}
+.section3 img{
+     margin-top: 50px;
+     margin-left: 100px;
+     width: 90%;
+}
+.section3.bi-people,.bi-patch-question{
+  
+}
+.collapse-mover{
+     margin-top: 56px;
+     margin-left: 100px;
+}
+.card{
+    background:#0dcaf0;
+     color: white;
+    bottom: 0;
+}
+.row-card img{
+
+opacity: 0.1;
+width: 100%;
+
+}
+.row-card h1{
+    color: orangered;
+     position: absolute;
+     margin-top: -260px;
+     font-weight: bolder;
+     opacity: 0.5;
+
+}
+.row-card p{
+     z-index: 10;
+     color:white;
+     margin-top: -170px;
+}
+
+.section4{
+     width: 100%; 
+     margin-top: 100px;
+}
+.bi-chevron-down{
+     margin-left: 70px;
+     color: white;
+}
+header{
+     color:blue;
+}
+
+.section5{
+     width: 100%;
+     margin-top: 100px;
+     border: 2px solid  #0dcaf0;;
+}
+.section5 input,textarea{
+     border: 2px solid rgb(179, 178, 178);
+}
+
+
+
+
+
