@@ -1,9 +1,6 @@
 
-@media screen and(max-width:400px){
-     .main-h1{
-          font-size: 20px;
-     }
-    
+@media screen and(max-width:1500px){
+   
 }
 
 @media screen and (max-width:600px)
@@ -14,6 +11,10 @@
      .col2-img{
        display: none;
      }
+     .fa-bars {
+   
+     }
+    
    
    
    
@@ -144,10 +145,14 @@ nav{
      font-family: Verdana, Geneva, Tahoma, sans-serif; 
      color: white;
      font-size: 30px;
-     margin-left: 45px;
+     margin-left: px;
      top: 0;
      
    
+}
+.fa-bars {
+     font-size: 30px;
+  
 }
 .navbar-brand span{
      color: white;
