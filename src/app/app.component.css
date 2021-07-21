@@ -181,6 +181,10 @@ nav{
     z-index: -1;
     
 }
+.content0{
+     margin-top: -100px;
+}
+
 .content2{
      width: 100%;
      margin-top: 200px;
@@ -188,6 +192,7 @@ nav{
      background: rgba(0, 0, 0, 0.5);
      border: 5px solid #0dcaf0;
      border-radius: 10px;
+     border: none;
 }
 .content3{
      margin-top: 50px;
@@ -196,6 +201,7 @@ nav{
      background: rgba(0, 0, 0, 0.5);
      border: 5px solid white;
      border-radius: 10px;
+     border: none;
 }
 .content4{
      margin-top: 50px;
@@ -204,6 +210,7 @@ nav{
      background: rgba(0, 0, 0, 0.5);
      border: 5px solid #0dcaf0;
      border-radius: 10px;
+     border: none;
 }
 .content5{
      margin-top: 40px;
@@ -212,9 +219,11 @@ nav{
      background: rgba(0, 0, 0, 0);
      border: 5px solid white;
      border-radius: 10px;
+     border: none;
 }
 .content5 h1{
   font-weight: bolder;
+
   font-size: 50px;
   color: orange;
 
@@ -225,8 +234,10 @@ nav{
      color: aqua;
    }
 .content1{
-     margin-top: -70px;
+     margin-top: -90px;
      width: 100%;
+    
+
 }
 
 .content1 h1{
