@@ -70,8 +70,18 @@
     
      
 }
+.fa-twitter{
+     color: #0dcaf0;
+     font-size: 30px;
+     margin-top: 10px;
+     margin-left: 20px;
+}
 .team{
-     opacity: 0.2;
+     opacity: 0.6;
+}
+.rab-col{
+    margin-top: 100px!important;
+    position:relative;
 }
 .img2{
      width: 10px;
@@ -251,6 +261,7 @@ margin-left: 50px;
 
   font-size: 50px;
   color: orange;
+  margin-top: 100px;
 
 }
 .content5 span{
@@ -375,14 +386,15 @@ header{
 .donate a{
      
      width: 80px;
-     right: 0;
+    
      bottom: 0;
      position: fixed;
      margin-bottom: 0px;
      color: white;
      font-size: 15px;
      color: wheat;
-     margin-left: 30px;
+     margin-left: 1230px;
+    
     
 }
 
