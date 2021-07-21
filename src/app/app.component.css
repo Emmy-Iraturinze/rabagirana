@@ -373,6 +373,18 @@ header{
 .section5 input,textarea{
      border: 2px solid rgb(179, 178, 178);
 }
+.feedback-col{
+     background: #000;
+}
+input[type=text]{
+     background: #000;
+}
+input[type=email]{
+     background: #000;
+}
+textarea{
+     background: #000;
+}
 
 .donate img{
      width: 50px;
