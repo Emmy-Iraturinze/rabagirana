@@ -1,7 +1,7 @@
 
 
 
-@media screen and (min-width:300px)and (max-width:600px)
+@media screen and (max-width:600px)
 {
      body{
           width: 100%;
@@ -9,16 +9,8 @@
      .col2-img{
        display: none;
      }
-     .row1 {
-     
-     }
-     .col1 h1{
-        margin-top: 250px;
-       font-size: 27px !important;
-       background: rgba(0, 0, 0, 0.2);
-       border-radius:5px;
-      
-     }
+   
+   
      .navbar-brand img{
           margin-left: -50px;
      }
@@ -29,7 +21,12 @@
      .btn{
           margin-top: -100px;
      }
-  
+     .col1 h1 {
+      
+     }
+     .bg-img-content .main-h1{
+          margin-top: -300px;
+     }
 
 
      .col2-img {
@@ -42,7 +39,37 @@
 
 
 
+.col0{
 
+     z-index: 100;
+     width: 100%;
+     right: 0;
+     left: 0;
+    
+    
+    background: rgba(0, 0, 0, 0.1);
+     
+     
+}
+.main-h1{
+     font-weight: bolder;
+     letter-spacing: 0.5rem;
+}
+.bg-img-content{
+     position: absolute;
+      margin-top: 100px;
+     margin-left: 20px;
+     width: 100%;
+     left: 0;
+     height: 0;
+}
+.typewrite{
+     color: wheat;
+     text-decoration: none;
+     font-size: 20px;
+     font-family: 'Raleway', sans-serif;
+     font-weight: 900;
+}
 
  .bg-img{
   z-index: -1;
@@ -105,11 +132,7 @@ nav{
      font-family: Verdana, Geneva, Tahoma, sans-serif;
      font-size: 15px;
 }
-.section1{
-    
 
-
-}
 
 .row1{
   position: absolute;
@@ -121,11 +144,19 @@ nav{
 .row1 img{
      width: 250px;
 }
-
-.row .col1 h1{
-    font-size: 60px;
-font-weight: bolder;
-letter-spacing: 0.1em;
+.video-content{
+margin-top: -70px;
+}
+.video-content h1{
+    font-weight: bolder;
+     }
+.video-content a{
+     color:wheat;
+  
+     text-decoration: none;
+     font-size: 20px;
+     font-family: 'Raleway', sans-serif;
+     font-weight: bolder;
 }
 .row .col1 small{
      font-size: 16px;
