@@ -16,15 +16,12 @@
      }
    
    
-     .navbar-brand img{
-          margin-left: -50px;
-     }
-     .navbar-brand span{
-          position: absolute;
-          margin-left: -45px;
+   
+     .navbar-brand {
+        
      }
      .btn{
-          margin-top: -100px;
+        
      }
    
      .main-h1 {
@@ -146,7 +143,7 @@ nav{
      font-weight: bolder;
      font-family: Verdana, Geneva, Tahoma, sans-serif; 
      color: white;
-     font-size: 20px;
+     font-size: 30px;
      margin-left: 45px;
      top: 0;
      
@@ -156,6 +153,7 @@ nav{
      color: white;
      font-weight: bolder;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
     
 }
 .nav-link{
@@ -262,13 +260,12 @@ nav{
      font-size: 16px;
      font-family: 'Raleway', sans-serif;
      font-weight: bolder;
+    
 }
 
-
-.row1 .btn{
-   margin-left: 0px;
-   margin-top: 20px!important;
- 
+.btn{
+     margin-top: 50px;
+    
 }
 .col2-img{
      margin-top: -50px;
@@ -337,6 +334,25 @@ header{
 }
 .section5 input,textarea{
      border: 2px solid rgb(179, 178, 178);
+}
+
+.donate img{
+     border-radius: 100px;
+     width: 80px;
+     right: 0;
+     bottom: 0;
+     position: fixed;
+  
+}
+.donate a{
+     border-radius: 100px;
+     width: 80px;
+     right: 0;
+     bottom: 0;
+     position: fixed;
+     margin-bottom: 20px;
+     color: white;
+    
 }
 
 
