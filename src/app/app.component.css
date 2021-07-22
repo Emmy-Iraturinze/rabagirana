@@ -80,6 +80,7 @@
 .section2{
      margin-top: 100px;
 }
+
 .team1{
     width: 250px;
 }
@@ -93,7 +94,7 @@
      margin-right: 6px;
 }
 figcaption{
-     font-size: 20px;
+     font-size: 15px;
      color: bisque!important;
 }
 #rab-col{
@@ -122,6 +123,7 @@ figcaption{
         border-radius: 200px;
    }
    .section6{
+     
       
    }
 
@@ -199,7 +201,9 @@ margin-left: 50px;
      margin-bottom:20px ;
      margin-left: -20px;
 }
-
+.social-media i{
+   margin-right: 10px;
+}
 .content1{
    
      width: 100%;
@@ -359,9 +363,13 @@ margin-left: 50px;
      margin-left: 100px;
 }
 .card{
-    background:#0dcaf0;
+     background:linear-gradient(#fff,rgb(7, 132, 163),#fff);
      color: white;
-    bottom: 0;
+     margin-top: 10px;
+}
+.card img{
+   border-radius: 5
+   ,00px;
 }
 .row-card img{
 
