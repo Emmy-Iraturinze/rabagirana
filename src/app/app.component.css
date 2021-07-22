@@ -79,8 +79,8 @@
      opacity: 0.6;
 }
 #rab-col{
-  background: rgb(22, 146, 204);
  
+ border-top: 2px solid red;
   margin-bottom: 150px;
  
 
@@ -362,8 +362,18 @@ header{
 .section5{
      width: 100%;
      margin-top: 100px;
+     background: #000;
+     
     
 }
+.section5 .col{
+     border-right: 2px solid red;
+     border-left: 2px solid red;
+     border-top: 2px solid red;
+     border-bottom: 2px solid red;
+
+}
+
 .section5 input,textarea{
      border: 1px solid rgb(179, 178, 178);
 }
