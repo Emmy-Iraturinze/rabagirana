@@ -111,7 +111,7 @@ figcaption{
    
    }
    #location-p{
-        border:1px solid;
+        
        
 
    }
@@ -428,7 +428,8 @@ header{
 .section5{
      width: 100%;
      margin-top: 100px;
-     background: #000;
+   
+
      
     
 }
@@ -441,16 +442,16 @@ header{
      border: 1px solid rgb(179, 178, 178);
 }
 .feedback-col{
-     background: #000;
+    
 }
 input[type=text]{
-     background: #000;
+    
 }
 input[type=email]{
-     background: #000;
+    
 }
 textarea{
-background: black;
+
 }
 
 .donate img{
@@ -477,6 +478,9 @@ background: black;
      margin-left: 1100px;
     
     
+}
+.bi-people{
+     font-size: 90px;
 }
 
 
