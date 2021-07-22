@@ -78,10 +78,19 @@
 .team{
      opacity: 0.6;
 }
-.rab-col{
-    margin-top: 100px!important;
-    position:relative;
+#rab-col{
+  background: rgb(22, 146, 204);
+ 
+  margin-bottom: 150px;
+ 
+
 }
+#rab-col a{
+     background: rgb(20, 3, 3);
+    
+    
+   
+   }
 .img2{
      width: 10px;
      border-radius: 50px;
@@ -191,6 +200,7 @@ margin-left: 50px;
 
 
 .sponsor-img{
+
     width:50px;
     right: 0;
     position: fixed;
@@ -268,17 +278,8 @@ margin-left: 50px;
           margin-top: -600px;
           
      }
-     .rab-col{
-          background:rgba(231, 141, 5, 1);
-         height: auto;
-          width: 100%;
-          margin-top: -100px;
-          opacity: 10;
-          z-index: 1;
-          bottom: 0;
-          
-     }
-     .rab-col h1{
+    
+     #rab-col h1{
         color: white;
         font-size: 50px;
           
@@ -361,10 +362,10 @@ header{
 .section5{
      width: 100%;
      margin-top: 100px;
-     border: 2px solid  #0dcaf0;;
+    
 }
 .section5 input,textarea{
-     border: 2px solid rgb(179, 178, 178);
+     border: 1px solid rgb(179, 178, 178);
 }
 .feedback-col{
      background: #000;
@@ -376,7 +377,7 @@ input[type=email]{
      background: #000;
 }
 textarea{
-
+background: black;
 }
 
 .donate img{
@@ -402,6 +403,13 @@ textarea{
     
     
 }
+
+
+.footer-cont{
+    
+     margin-top: 50px;
+}
+
 
 
 
