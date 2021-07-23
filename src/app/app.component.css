@@ -86,9 +86,26 @@
 }
 .carousel-caption{
      background: rgba(0, 0, 0, 0.2);
+     margin-top: -50px !important
 }
 .carousel-caption span{
     color: aqua;
+}
+.section3-1{
+     background:linear-gradient(orange,rgb(0, 255, 221),rgb(179, 129, 129),pink);
+     height: 500px;
+     border-radius: 5px;
+}
+.section3-1 span{
+    font-weight: 900;
+}
+audio{
+     margin-left: 90px;
+}
+.section3-1 h3{
+     font-weight: bolder;
+     font-size: 40px;
+     border-bottom: #f0d90d;
 }
 .bi-pencil-square{
      margin-right: 6px;
@@ -176,9 +193,12 @@ figcaption{
      color: white;
      z-index: 1;
 }
+.carousel-cont{
+     margin-top: 55px;
+}
 
 nav{
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 1);
      position: fixed;
      left: 0;
      top: 0;
@@ -433,13 +453,17 @@ header{
      
     
 }
-.section5 .col{
-  
+.section5 .col ,.col22{
+ border-bottom: 1px solid white;
+
 
 }
 
 .section5 input,textarea{
      border: 1px solid rgb(179, 178, 178);
+}
+.bi-geo-alt{
+     font-size: 27px;
 }
 .feedback-col{
     
