@@ -193,22 +193,24 @@ nav{
 }
 .fa-facebook{
 font-size: 30px;
-margin-left: 50px;
+color: white !important;
+
 }
 .fa-instagram{
      font-size: 30px;   
 }
 .social-media{
-     left: 0;
+   
      bottom: 0;
      position: fixed;
      color: white;
      cursor: pointer;
-     margin-bottom:20px ;
-     margin-left: -20px;
+     margin-bottom:55px ;
+   right: 0;
+   margin-right: 0px;
 }
 .social-media i{
-   margin-right: 10px;
+   margin-right: 5px;
 }
 .content1{
    
@@ -488,7 +490,7 @@ textarea{
     
 }
 .bi-people{
-     font-size: 90px;
+     font-size: 40px;
 }
 
 
