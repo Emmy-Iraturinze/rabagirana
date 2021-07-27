@@ -225,6 +225,7 @@ nav{
 font-size: 30px;
 color: white !important;
 
+
 }
 .fa-instagram{
      font-size: 30px;   
@@ -235,13 +236,17 @@ color: white !important;
      position: fixed;
      color: white;
      cursor: pointer;
-     margin-bottom:55px ;
+     margin-bottom:65px ;
    right: 0;
    margin-right: 0px;
 }
 .social-media i{
-   margin-right: 5px;
+ 
 }
+.social-media p{
+   display: block;
+   margin: 10px;
+  }
 .content1{
    
      width: 100%;
