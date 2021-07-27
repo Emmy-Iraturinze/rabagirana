@@ -112,7 +112,7 @@ p{
 }
 .carousel-caption{
      background: rgba(0, 0, 0, 0.2);
-     margin-top: -50px !important
+     margin-top: 100px !important
 }
 .carousel-caption span{
     color: aqua;
@@ -213,7 +213,8 @@ nav button{
 }
 
 nav{
-    background:transparent;
+    background:transparent
+    ;
      position: fixed;
      left: 0;
      top: 0;
