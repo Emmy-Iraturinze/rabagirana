@@ -6,6 +6,6 @@
 }
 body{
    background:linear-gradient(#fff,rgb(7, 132, 163),rgb(29, 4, 4));
+    letter-spacing: 0.01em;
 
-  font-family: 'Lexend', sans-serif;
 }
