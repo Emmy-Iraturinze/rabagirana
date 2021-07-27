@@ -72,6 +72,16 @@
     
      
 }
+#col1 span {
+    
+     color: orange;
+}
+
+#col1 {
+    
+  background: #000;
+}
+
 .fa-twitter{
      color: #0dcaf0;
      font-size: 30px;
@@ -240,9 +250,7 @@ color: white !important;
  
    
 }
-#col1{
-     background: #0dcaf0;
-}
+
 #col2{
      background: #f0d90d;
 }
