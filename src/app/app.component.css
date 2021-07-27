@@ -261,7 +261,9 @@ color: white !important;
  
    
 }
-
+#section2-img{
+     filter: grayscale();
+}
 #col2 img{
      margin-top: 50px;
      margin-left: 20px;
