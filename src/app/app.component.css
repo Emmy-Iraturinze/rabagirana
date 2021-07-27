@@ -1,15 +1,16 @@
 
-@media screen and(max-width:1500px){
-   
-}
 
-@media screen and (max-width:800px)
+
+@media screen and (min-width:1000px)
 {
      body{
           width: 100%;
      }
      .col2-img{
        display: none;
+     }
+     .carousel-cont{
+          display: none;
      }
      .fa-bars {
    
