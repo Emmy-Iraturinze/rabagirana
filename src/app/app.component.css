@@ -102,6 +102,9 @@
 .section2{
      margin-top: 100px;
 }
+p{
+   font-size: 15px;
+}
 
 .team1{
     width: 250px;
