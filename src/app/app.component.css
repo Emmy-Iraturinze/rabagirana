@@ -213,7 +213,7 @@ nav button{
 }
 
 nav{
-    background: black;
+    background:transparent;
      position: fixed;
      left: 0;
      top: 0;
