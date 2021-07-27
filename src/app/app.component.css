@@ -262,8 +262,14 @@ color: white !important;
    
 }
 
-#col2{
-    background: linear-gradient(#6C72CB,#CB69C1);
+#col2 img{
+     margin-top: 50px;
+     margin-left: 20px;
+
+}
+#col2 span{
+  color: orange;
+
 }
 
 #col2 p{
