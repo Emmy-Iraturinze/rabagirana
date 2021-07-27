@@ -255,12 +255,35 @@ color: white !important;
 }
 
 #col2{
-     background: #f0d90d;
+     background: radial-gradient(#fff,#000);
 }
 #col3{
-     background: #f00d77;
+     background: #000;
+     height: 230px;
+   
 }
-
+#col3 img{
+     border-radius: 500px;
+     
+}
+#col4{
+     width: 100%;
+     border-style: solid;
+   border-image: linear-gradient(#6C72CB,#CB69C1);
+     background: #000;
+     color: white;
+}
+.item2{
+     border: 2px solid #6C72CB ;
+}
+.item3{
+     border: 2px solid #CB69C1 ; 
+}
+#col1 button{
+     position: absolute;
+     margin-left: -90px;
+     margin-top: 40px !important;
+}
 
 .sponsor-img{
 
