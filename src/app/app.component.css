@@ -1,6 +1,15 @@
 
+@media screen and (max-width:1000px){
+     iframe{
+          display: none;
+     }
+}
+@media screen and (max-width:1000px){
+     .carousel-caption {
+       
 
-
+     }
+}
 @media screen and (min-width:1000px)
 {
      body{
@@ -9,17 +18,15 @@
      .col2-img{
        display: none;
      }
-     .carousel-cont{
-          display: none;
-     }
+    #carouselExampleCaptions{
+         display: none;
+    }
      .fa-bars {
    
      }
     
    
-   .carousel-caption{
-        display: block !important;
-   }
+  
    
      .navbar-brand {
         
@@ -256,7 +263,12 @@ color: white !important;
 }
 
 #col2{
-     background: radial-gradient(#fff,#000);
+    
+}
+
+#col2 p{
+  margin-left: 20px;
+  
 }
 #col3{
      background: #000;

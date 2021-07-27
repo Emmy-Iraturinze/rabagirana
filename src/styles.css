@@ -5,7 +5,14 @@
      box-sizing: border-box;
 }
 body{
-   background:linear-gradient(#fff,rgb(7, 132, 163),rgb(29, 4, 4));
-    letter-spacing: 0.01em;
+   background:#000;
+   
+    color: white;
+    
 
+}
+p,small,h1,h2,h3,h4,h5,h6,span,a{
+     opacity: 0.9;
+     font-family: Arial, Helvetica, sans-serif;
+     letter-spacing: 0.02em;
 }
