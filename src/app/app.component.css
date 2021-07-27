@@ -766,11 +766,14 @@ textarea{
     }
     
     .quote.green blockquote {
-      background-color: #32c5d2;
+      background-color: #000;
+      border:1px solid white;
     }
     
     .quote.green blockquote:before {
-      border-top-color: #32c5d2;
+      border-top-color: #000;
+      border:1px solid white;
+      
     }
     
     .quote.dark blockquote {

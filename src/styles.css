@@ -5,7 +5,7 @@
      box-sizing: border-box;
 }
 body{
-   background:#000;
+  background: linear-gradient(rgb(15, 0, 0),#000);
    
     color: white;
     
